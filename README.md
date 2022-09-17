@@ -1,6 +1,6 @@
 # 好食刻冰箱
 
-關鍵字詞｜Arduino、PythonIDE、YOLO、PyQt
+關鍵字詞｜Arduino、OpenCV、YOLO、PyQt
 
 ![image](https://user-images.githubusercontent.com/70381898/190865632-b98d2090-dcb2-495e-891f-1f0d16791cbe.png)
 
